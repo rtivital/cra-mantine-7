@@ -39,5 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "packageManager": "yarn@4.0.2",
+  "devDependencies": {
+    "postcss": "^8.4.31",
+    "postcss-preset-mantine": "^1.11.0"
   }
 }
